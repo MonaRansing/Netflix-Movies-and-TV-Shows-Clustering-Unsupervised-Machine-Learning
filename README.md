@@ -22,4 +22,5 @@ There are 5 columns which have missing values as follows:
   * country - 507
   * date_added - 10
   * rating - 7
+
 From the above 5 columns I deropped 1 column which is director column because I do not neede for analysis and date_added and ratings columns have null values so I dropped those null values using dropna fumction. Missing values from cast column is replace by "No Cast" and missing value from country column is replaced by name of countries from dataset.
