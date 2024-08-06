@@ -56,4 +56,5 @@ In this project I used three algorithms kMeans clustering, Hierarchy Clustering 
   * The graph shows a significant increase in both TV shows and movies on Netflix starting from the 2000s, with a sharp spike in content around 2015-2019. TV shows have seen rapid growth, especially in the last decade, while the number of movies, after peaking, appears to have slightly declined recently.
   * TV-MA has the highest number of ratings in both the cases i. e. tv shows as well as movies category.
 * ML Model:
-  * 
+  * Cluster 7 has the heighest number of datapoints.
+  * After compairing both models agglomerative model performing good.
