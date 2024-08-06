@@ -23,4 +23,26 @@ There are 5 columns which have missing values as follows:
   * date_added - 10
   * rating - 7
 
-From the above 5 columns I deropped 1 column which is director column because I do not neede for analysis and date_added and ratings columns have null values so I dropped those null values using dropna fumction. Missing values from cast column is replace by "No Cast" and missing value from country column is replaced by name of countries from dataset.
+From the above 5 columns I dropped 1 column which is director column because I do not need for analysis and date_added and ratings columns have null values so I dropped those null values using dropna fumction. Missing values from cast column is replace by "No Cast" and missing value from country column is replaced by name of countries from dataset.
+## **EDA:**
+For the EDA and data visualization I used following charts :
+ * Pie Chart
+ * Bar plot
+ * Count Plot
+ * Heatmap
+ * Point plot
+ * Line Plot
+ * Distplot
+
+I tried to find out answers of following:
+ * How many TV shows and movies are there in the dataset?
+ * What is the distribution of release years for the content?
+ * Release by month
+ * Top 10 countries who produce the most content?
+ * Rating distribution of TV shows and Movies
+ * What are the most common genres on Netflix?
+ * Duration
+## **Hypothesis Testing:**
+In hypothesis testing I define three hypothetical statments and also tried to find out p value using Z-statistical test and T-statistical test.
+## **Feature Engineering:**
+In feature engineering I did textual data processing, removed punctuations etc.
